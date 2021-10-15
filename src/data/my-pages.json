@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Page 1 Title",
+    "description": "This is a description of page 1",
+    "content": "How good is Gatsby v3 on page 1",
+    "slug": "/my-page-1"
+  },
+  {
+    "title": "Page 2 Title",
+    "description": "This is a description of page 2",
+    "content": "How good is Gatsby v3 on page 2",
+    "slug": "/my-page-2"
+  },
+  {
+    "title": "Page 3 Title",
+    "description": "This is a description of page 3",
+    "content": "How good is Gatsby v3 on page 3",
+    "slug": "/my-page-3"
+  },
+  {
+    "title": "Page 4 Title",
+    "description": "This is a description of page 4",
+    "content": "How good is Gatsby v3 on page 4",
+    "slug": "/my-page-4"
+  },
+  {
+    "title": "Page 5 Title",
+    "description": "This is a description of page 5",
+    "content": "How good is Gatsby v3 on page 5",
+    "slug": "/my-page-5"
+  },
+  {
+    "title": "Page 6 Title",
+    "description": "This is a description of page 6",
+    "content": "How good is Gatsby v3 on page 6",
+    "slug": "/my-page-6"
+  },
+  {
+    "title": "Page 7 Title",
+    "description": "This is a description of page 7",
+    "content": "How good is Gatsby v3 on page 7",
+    "slug": "/my-page-7"
+  }
+]
